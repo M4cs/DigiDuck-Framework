@@ -75,7 +75,7 @@ All the current payloads are from Hak5's RubberDucky scripts available [here](ht
 
 ## Creating a Payload:
 
-Head to the (Duckyspark GitHub Page)[https://github.com/toxydose/Duckyspark] to see how to create your translated .ino file from a RubberDucky script. After that load your .ino file into Arduino IDE. Make sure Verbose is on inside Preferences and compile your code. Open the terminal output below and look for the .hex file location. It should be in a temp directory in your AppData or equivalent on MacOS. Here's and example:
+Head to the [Duckyspark GitHub Page](https://github.com/toxydose/Duckyspark) to see how to create your translated .ino file from a RubberDucky script. After that load your .ino file into Arduino IDE. Make sure Verbose is on inside Preferences and compile your code. Open the terminal output below and look for the .hex file location. It should be in a temp directory in your AppData or equivalent on MacOS. Here's and example:
 
 ![alt text](https://image.prntscr.com/image/Np6QYpxeSmu-TwzOomXBOQ.png)
 **This is right above where it tells you to plug in your board!**

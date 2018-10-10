@@ -1,4 +1,4 @@
-# DigiDuck-Framework
+# DigiDuck Framework
 Framework for Digiduck Development Boards running ATTiny85 processors and micronucleus bootloader!
 
 [![GitHub stars](https://img.shields.io/github/stars/M4cs/DigiDuck-Framework.svg?style=popout-square)](https://github.com/M4cs/DigiDuck-Framework/stars)

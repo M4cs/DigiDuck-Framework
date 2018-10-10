@@ -87,5 +87,7 @@ Feel free to contribute by adding custom or more payloads from the Rubber Ducky 
 # Credits:
 
 Duckyspark - https://github.com/toxydose/Duckyspark
+
 Micronucleus - https://github.com/micronucleus/micronucleus
+
 Hak5 RubberDucky Payloads - https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads

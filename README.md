@@ -5,6 +5,7 @@ Framework for Digiduck Development Boards running ATTiny85 processors and micron
 [![GitHub issues](https://img.shields.io/github/issues/M4cs/DigiDuck-Framework.svg?style=popout-square)](https://github.com/M4cs/DigiDuck-Framework/issues)
 [![GitHub forks](https://img.shields.io/github/forks/M4cs/DigiDuck-Framework.svg?style=popout-square)](https://github.com/M4cs/DigiDuck-Framework/forks)
 [![GitHub license](https://img.shields.io/github/license/M4cs/DigiDuck-Framework.svg?style=popout-square)](https://github.com/M4cs/DigiDuck-Framework/license)
+![GitHub version](https://img.shields.io/badge/version-v1.0-red.svg?style=popout-square)
 
 ![alt text](https://image.prntscr.com/image/qoCpe24JSxu_HXqqLh38Ig.png)
 *Screenshot of DDF Welcome Screen*

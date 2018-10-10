@@ -52,7 +52,7 @@ All your available payloads will be shown here. However if you run the `execute`
 The third and last command in DDF is `execute`. The `execute` command will display the same menu as the `show` command, however from this menu you will input the payload name. **You have to include .hex at the end of it or it won't load correctly and ask you to enter it again.**
 
 ![alt text](https://image.prntscr.com/image/uqO41EyaQ5aIcugjjLL1qg.png)
-*`execute` command display.
+*`execute` command display.*
 
 Once you choose your payload you will be prompted to insert your desired board into the computer. From there it will install the desired payload and display this when completed:
 
